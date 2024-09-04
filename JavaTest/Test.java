@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 亂加倍註冊是
 public class Test {
 
     public static boolean checkWin(int n, int[] data, int[][] map) {
